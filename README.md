@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Jr.</h1>
+<h1 align="center">Hi 👋, I'm VJ.</h1>
 <h3 align="center">Fresh Graduate Web Developer with Hands-On Experience in Laravel and Vue.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logic-zero&label=Profile%20views&color=0e75b6&style=flat" alt="logic-zero" /> </p>
