@@ -1,32 +1,67 @@
-<h1 align="center">Hi 👋, I'm VJ.</h1>
-<h3 align="center">Fresh Graduate Web Developer with Hands-On Experience in Laravel and Vue.js</h3>
+<h1 align="center">Hi 👋, I'm VJ</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logic-zero&label=Profile%20views&color=0e75b6&style=flat" alt="logic-zero" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logic-zero" alt="logic-zero" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/logic-zero">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=FF4FD0&center=true&vCenter=true&width=620&lines=Full-stack+web+developer;Laravel+%2B+Inertia.js+%2B+React+%2F+Vue;Building+billing+and+utility+platforms" alt="Typing intro" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=logic-zero&label=Profile%20views&color=ff4fd0&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logic-zero&show_icons=true&locale=en&layout=compact" alt="logic-zero" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logic-zero&show_icons=true&locale=en" alt="logic-zero" /></p>
+### 👨‍💻 About me
 
-<!--
-**logic-zero/logic-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Full Stack Web Developer (Part-Time) at **Hashed.IT**, building CRM, billing, collection, work order and meter reading modules for electric distribution utilities
+- ⚙️ I work on Laravel backends and reactive UIs with **React** and **Vue.js**, connected through **Inertia.js**
+- 🗄️ Hands-on with database optimization and continuous deployments
+- 🎓 BS in Information Technology, Mater Dei College (2025)
+- 📍 Inabanga, Bohol, Philippines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-ff4fd0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:vjvistalzero@gmail.com"><img src="https://img.shields.io/badge/Email-180613?style=for-the-badge&logo=gmail&logoColor=3ee0ff" alt="Email" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42"/></a>
+  <a href="https://laravel.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42"/></a>
+  <a href="https://inertiajs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inertiajs/inertiajs-original.svg" alt="Inertia.js" width="42" height="42"/></a>
+  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/></a>
+  <a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="42" height="42"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
+  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="42" height="42"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42"/></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42"/></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/></a>
+  <a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/></a>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=logic-zero&show_icons=true&locale=en&hide_border=false&bg_color=180613&title_color=ff4fd0&text_color=f6ecf4&icon_color=3ee0ff&border_color=47293c" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logic-zero&layout=compact&langs_count=6&bg_color=180613&title_color=ff4fd0&text_color=f6ecf4&border_color=47293c" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=logic-zero&background=180613&ring=ff4fd0&fire=f0b060&currStreakLabel=3ee0ff&currStreakNum=f6ecf4&sideNums=f6ecf4&sideLabels=b49aae&dates=b49aae&stroke=47293c&border=47293c" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=logic-zero&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
