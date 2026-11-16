@@ -51,11 +51,10 @@
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=logic-zero&show_icons=true&locale=en&hide_border=false&bg_color=180613&title_color=ff4fd0&text_color=f6ecf4&icon_color=3ee0ff&border_color=47293c" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logic-zero&layout=compact&langs_count=6&bg_color=180613&title_color=ff4fd0&text_color=f6ecf4&border_color=47293c" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/logic-zero?style=for-the-badge&logo=github&logoColor=white&labelColor=180613&color=ff4fd0" alt="GitHub followers" />
 </p>
 
 <p align="center">
@@ -63,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=logic-zero&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://ghchart.rshah.org/ff4fd0/logic-zero" alt="Contribution chart" />
 </p>
