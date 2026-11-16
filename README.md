@@ -60,7 +60,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=logic-zero&background=180613&ring=ff4fd0&fire=f0b060&currStreakLabel=3ee0ff&currStreakNum=f6ecf4&sideNums=f6ecf4&sideLabels=b49aae&dates=b49aae&stroke=47293c&border=47293c" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff4fd0/logic-zero" alt="Contribution chart" />
-</p>
