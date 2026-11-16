@@ -51,12 +51,3 @@
 
 ---
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/logic-zero?style=for-the-badge&logo=github&logoColor=white&labelColor=180613&color=ff4fd0" alt="GitHub followers" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=logic-zero&background=180613&ring=ff4fd0&fire=f0b060&currStreakLabel=3ee0ff&currStreakNum=f6ecf4&sideNums=f6ecf4&sideLabels=b49aae&dates=b49aae&stroke=47293c&border=47293c" alt="GitHub streak" />
-</p>
