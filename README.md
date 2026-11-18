@@ -25,7 +25,7 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-ff4fd0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-six-zeta-8c5ft3mi31.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff4fd0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:vjvistalzero@gmail.com"><img src="https://img.shields.io/badge/Email-180613?style=for-the-badge&logo=gmail&logoColor=3ee0ff" alt="Email" /></a>
 </p>
 
